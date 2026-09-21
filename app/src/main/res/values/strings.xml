@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AkRamVPN</string>
+    <string name="subtitle">VPN Packet Sniffer</string>
+    <string name="start">START VPN</string>
+    <string name="stop">STOP VPN</string>
+    <string name="status_idle">READY</string>
+    <string name="status_running">RUNNING</string>
+</resources>

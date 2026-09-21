@@ -1,0 +1,2 @@
+-keep class com.akram.vpn.** { *; }
+-keep class com.github.baseflow.netbare.** { *; }
